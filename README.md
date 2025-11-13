@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Lauren<br>
-<br>🎓 Current student finishing my [Bachelor's Degree in Computer Information Systems](https://www.devry.edu/d/computer-information-systems-software-programming-guide.pdf) at DeVry University.  
+<br>🎓 Recent Graduate [Bachelor's Degree in Computer Information Systems](https://www.devry.edu/d/computer-information-systems-software-programming-guide.pdf) at DeVry University.  
 <br>💻 Passionate about software engineering, backend development, and building scalable enterprise systems.  
 <br>👩🏻‍💻 Currently building a Financial Advisor Portfolio Management System using Java Spring Boot, MySQL, and React.  
 <br>🌱 Learning cloud computing, cybersecurity basics, and full-stack web development.  
