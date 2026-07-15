@@ -1,4 +1,4 @@
-Hello there!
+Hello there! 👋🏻
 
 I'm Lauren, a software engineer and gamer in Peoria, IL.
 
@@ -10,6 +10,7 @@ I'm fascinated by large-scale, high-impact products and enjoy learning how techn
 
 
 Outside of work, I enjoy keeping up with the latest developments in science and technology. I also love traveling, playing video games, building personal projects, and exploring new ways to combine creativity with technology.
+
 
 
 Let's connect!
