@@ -9,5 +9,6 @@ I'm fascinated by large-scale, high-impact products and enjoy learning how techn
 Outside of work, I enjoy keeping up with the latest developments in science and technology. I also love traveling, playing video games, building personal projects, and exploring new ways to combine creativity with technology.
 
 Let's connect!
+
 [<img width="91" height="28" alt="image" src="https://github.com/user-attachments/assets/97196d74-7417-4676-a2aa-603e2f1c3044" />
 ](https://www.linkedin.com/in/laurenfassett/)
