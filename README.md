@@ -1,9 +1,12 @@
-## 👋 Hi there, I'm Lauren<br>
-<br>🎓 Recent Graduate [Bachelor's Degree in Computer Information Systems](https://www.devry.edu/d/computer-information-systems-software-programming-guide.pdf) at DeVry University.  
-<br>💻 Passionate about software engineering, backend development, and building scalable enterprise systems.  
-<br>👩🏻‍💻 Currently building a Financial Advisor Portfolio Management System using Java Spring Boot, MySQL, and React.  
-<br>🌱 Learning cloud computing, cybersecurity basics, and full-stack web development.  
-<br>✨ Sharing my journey and projects here as I grow my skills in tech and beyond!<br>
+Hello there! 
+I'm Lauren, a software engineer and gamer in Peoria, IL.
 
-# 💻 Tech Skills:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white)
+I currently work as a Production Coordinator at @DYOPATH, where I help manage asset data using SQL and HARDCAT, provide technical support, coordinate service operations, maintaine accurate records, and supporte continuous process improvements.
+Previously, I attended DeVry University, where I earned a [Bachelor's Degree in Computer Information Systems](https://www.devry.edu/d/computer-information-systems-software-programming-guide.pdf).
+
+I'm fascinated by large-scale, high-impact products and enjoy learning how technology can be used to solve complex problems, improve efficiency, and create meaningful experiences for users. I'm always looking for opportunities to expand my technical skills and explore new areas of software development.
+
+Outside of work, I enjoy keeping up with the latest developments in science and technology. I also love traveling, playing video games, building personal projects, and exploring new ways to combine creativity with technology.
+
+Let's connect!
+[LinkedIn](https://www.linkedin.com/in/laurenfassett/)
