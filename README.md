@@ -1,6 +1,6 @@
 Hello there! 👋🏻
 
-I'm Lauren, a software engineer and gamer in Peoria, IL.
+I'm Lauren, a software engineer in Peoria, IL.
 
 I currently work as a Production Coordinator at [DYOPATH](linkedin.com/company/dyopath/), where I help manage asset data using SQL and HARDCAT, provide technical support, coordinate service operations, maintaine accurate records, and supporte continuous process improvements.
 Previously, I attended DeVry University, where I earned a [Bachelor's Degree in Computer Information Systems](https://www.devry.edu/d/computer-information-systems-software-programming-guide.pdf).
